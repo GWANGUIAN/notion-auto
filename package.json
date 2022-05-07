@@ -1,0 +1,17 @@
+{
+  "name": "notion-auto",
+  "version": "1.0.0",
+  "description": "automatize notion works by using notion-sdk",
+  "scripts": {
+    "start": "node index"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/GWANGUIAN/notion-auto",
+  "author": "GWANGUIAN",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "dotenv": "^16.0.0"
+  }
+}
